@@ -1,0 +1,15 @@
+{
+  "name": "burma-cal",
+  "version": "2024.11.10",
+  "description": "Myanmar Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "cal test"
+  },
+  "keywords": [
+    "Myanmar",
+    "Calendar"
+  ],
+  "author": "bominsoe.dev",
+  "license": "MIT"
+}
